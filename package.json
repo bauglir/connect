@@ -113,7 +113,7 @@
     "ioredis": "^1.7.5",
     "jade": "^1.9.2",
     "ldapjs": "mcavage/node-ldapjs",
-    "lodash": "^3.8.0",
+    "lodash": "^4.17.19",
     "mellt": "~1.0.0",
     "modinha": "0.0.39",
     "modinha-redis": "0.0.26",
